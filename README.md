@@ -1,6 +1,9 @@
 Ce projet est une application qui permet de créer un compte, se connecter,
 se déconnecter et de communiquer dans un chat
 
+https://user-images.githubusercontent.com/72311987/208383373-a50780a4-8b51-4cde-b08e-3b85e23019e3.mp4
+
+
 Technos utilisés:
 Expo (React Native) pour la création de l'application
 
